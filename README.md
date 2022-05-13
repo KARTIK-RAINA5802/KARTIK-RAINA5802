@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/96180683/165371288-76c884d9-9734-4cba-872c-1f0cd298210b.png)
 <h1 align="center">Hi 👋, I'm Kartik Raina</h1>
 <h3 align="center">I'm a Student 📚, Web Developer 💻 and Programmer 📱</h3>
-I started Programming in First Year of my College. I started with <b>C++</b> and after learning it, I shifted to Web Development and learned about <b>HTML</b>, <b>CSS</b>, <b>JAVASCRIPT</b> and then my interest statred growing in the logial part of the web site that is the backend and i started learning <b>Node JS</b>, <b>EXPRESS</b>, <b>MongoDB</b> and i am currently working on it. 
+I started Programming in my First Year of College. I started with <b>C++</b> and after learning it, I shifted to Web Development and learned about <b>HTML</b>, <b>CSS</b>, <b>JAVASCRIPT</b> then my interest started growing in the logial part of the web site that is the backend and I started learning <b>Node JS</b>, <b>EXPRESS</b>, <b>MongoDB</b> and I am currently working on it. 
 <img align="right" alt="Coding" width="400" style="border-radius:5px solid white" src="https://github.com/KARTIK-RAINA5802/KARTIK-RAINA5802/blob/main/Green%20Teal%20%26%20Navy%20Geometric%20Modern%20Computer%20Programmer%20Code%20Editor%20Quotes%20for%20Instagram%20Post%20(3).gif">
 - 📫 How to reach me **kartikraina.official@gmail.com**
 
